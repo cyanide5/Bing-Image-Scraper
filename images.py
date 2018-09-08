@@ -33,5 +33,8 @@ def start_search():
             print("Could not request image")
     start_search()
 
-start_search()
+
+if __name__ == "__main__":
+    start_search()
+
 
